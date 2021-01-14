@@ -5,4 +5,4 @@ var specialGuest = 'Neil deGrasse Tyson';
 var greetSpecialGuest = "Hello, " + specialGuest + "!";
 
 var topic = 'Let\'s talk about Let\'s talk about space.';
-var conversation =console.log(topic);
+var conversation =topic;
